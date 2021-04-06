@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    font-family: 'New Tegomin', serif;
+    font-size: 50px;
+}
+footer a img{
+    width: 50px;
+    padding: 50px;
+}
+
+.gitH{
+    border: 2px solid black;
+}
